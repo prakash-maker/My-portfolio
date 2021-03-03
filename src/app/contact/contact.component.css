@@ -1,0 +1,51 @@
+h4{
+    color: darkorange;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 6ex;
+    margin-bottom: 4ex;
+}
+span{
+    color: black;
+}
+.container{
+    margin: 0 auto;
+}
+img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30ex;
+  padding: 7ex;
+  margin-bottom: 4ex;
+  background-color: #eed;
+  box-shadow:  0 0 15px  rgba(0,0,0,0.6);
+ -moz-box-shadow: 0 0 15px  rgba(0,0,0,0.6);
+ -webkit-box-shadow: 0 0 15px  rgba(0,0,0,0.6);
+ -o-box-shadow: 0 0 15px  rgba(0,0,0,0.6);
+ transition: box-shadow .3s ease;
+}
+img:hover{
+    box-shadow:  0 0 15px  rgba(150, 143, 143, 0.6);
+    -moz-box-shadow: 0 0 15px  rgba(150, 142, 142, 0.6);
+    -webkit-box-shadow: 0 0 15px  rgba(156, 148, 148, 0.6);
+    -o-box-shadow: 0 0 15px  rgba(167, 148, 148, 0.6);
+}
+h5{
+    text-align: center;
+    color: blue;
+}
+h6{
+    text-align: center;
+}
+footer{
+    padding: 8ex;
+    background-color: rgb(7, 7, 7);
+}
+.contact{
+    margin-bottom: 10ex;
+}
+img{
+    padding: 2ex;
+}
+ 

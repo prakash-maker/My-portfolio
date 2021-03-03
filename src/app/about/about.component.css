@@ -1,0 +1,37 @@
+
+.profile{
+    background-color: #0f0f0f;
+    padding: 7ex;
+    width: auto;
+    margin: auto;
+}
+h3{
+    
+    color: rgb(255, 255, 255);
+    font-weight: lighter;
+    text-align: center;
+}
+span{
+    color: rgb(255, 159, 15);
+}
+h4{
+    
+    text-align: center;
+    color: rgb(13, 227, 255);
+    font-weight: lighter;
+}
+.about{
+  padding: 5ex;
+  padding-top: 10ex;
+  padding-bottom: 10ex;
+  background-color: #ffffff;
+}
+p{
+  text-align: center;
+  color: #420242;
+}
+
+a{
+  text-decoration: none;
+  margin: 0 auto;
+}

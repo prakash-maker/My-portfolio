@@ -1,0 +1,35 @@
+footer{
+    padding: 8ex;
+    background-color: rgb(7, 7, 7);
+}
+p{
+    font-size: medium;
+    animation: neon 1s ease infinite;
+    -moz-animation: neon 1s ease infinite;
+    -webkit-animation: neon 1s ease infinite;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+@keyframes neon {
+    0%,
+    100% {
+      
+      color: #ff9029;
+    }
+    50% {
+        color: #725213;
+      }
+  }
+h3{
+    font-size: medium;
+}
+h2{
+    font-size: smaller;
+    color: rgb(112, 112, 110);
+    padding-bottom: 2ex;
+}
+h1{
+    font-size: smaller;
+}
+.row{
+    width: 100%;
+}

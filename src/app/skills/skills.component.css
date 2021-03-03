@@ -1,0 +1,22 @@
+.skills{
+    background-image: url(../../assets/img/skills.png);
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10ex;
+    margin-bottom: 3ex;
+}
+.row{
+    margin: 0 auto;
+}
+h3{
+    margin-top: 3ex;
+    margin-bottom: 5ex;
+    text-align: center;
+    font-weight: bold;
+}
+span{
+    color: rgb(255, 159, 15);
+}

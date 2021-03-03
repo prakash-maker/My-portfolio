@@ -1,0 +1,25 @@
+.card{
+    margin: 0 auto;
+    margin-top: 2ex;
+    margin-bottom: 2ex;
+}
+.card-title{
+    color: rgb(109, 14, 93);
+}
+.card:hover{
+    color: rgb(131, 14, 121);
+    animation-duration: 1.1ms;
+}
+h4{
+    font-weight: bold;
+    text-align: center;
+    color: black;
+    margin-top: 5ex;
+    margin-bottom: 3ex;
+}
+span{
+    color: darkorange;
+}
+
+
+

@@ -1,0 +1,67 @@
+.bg-light {
+    background-color: #000000!important;
+}
+.navbar-light .navbar-brand {
+    color: rgba(224, 222, 222, 0.9);
+}
+.navbar-light .navbar-nav .nav-link:hover {
+    color: rgb(255, 159, 15);
+}
+.navbar-light .navbar-nav .nav-link{
+    color: rgb(241, 236, 236);
+}
+.nav-link {
+    display: block;
+    padding-top: 2ex;
+    padding-bottom: 2ex;
+    margin-left: 2ex;
+    font-family: var(--bs-font-sans-serif);
+    font-size: 1.1rem;
+    font-weight: 370;
+}
+.navbar-brand{
+    padding-top: 2ex;
+    padding-bottom: 2ex;
+    animation: flux 2s linear infinite;
+  -moz-animation: flux 2s linear infinite;
+  -webkit-animation: flux 2s linear infinite;
+  -o-animation: flux 2s linear infinite;
+}
+@keyframes flux {
+    0%,
+    100% {
+      color: #28D7FE;
+    }
+    50% {
+      color: #146C80;
+    }
+  }
+
+span{
+    color: aqua;
+    animation: neon 1s ease infinite;
+  -moz-animation: neon 1s ease infinite;
+  -webkit-animation: neon 1s ease infinite;
+}
+@keyframes neon {
+    0%,
+    100% {
+      color: #ffcd16;
+    }
+    50% {
+      color: #7c640e;
+    }
+  }
+  
+
+  
+
+
+.navbar-toggler {
+    padding: .25rem .75rem;
+    font-size: 1.25rem;
+    line-height: 1;
+    background-color: rgb(255, 159, 15);
+    border: 1px solid transparent;
+    border-radius: .25rem;
+}
